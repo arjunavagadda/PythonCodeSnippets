@@ -77,6 +77,12 @@ from math import sqrt as s,pi as p
 
 # how to read input and 
 
+x = input('enter the number')
+
+
+
+
+
 
 
 

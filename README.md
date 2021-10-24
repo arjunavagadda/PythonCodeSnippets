@@ -6,4 +6,30 @@
  - [tuples&sets](https://github.com/arjunavagadda/PythonCodeSnippets/blob/main/tuple-sets.py)
  - [Dictionaries](https://github.com/arjunavagadda/PythonCodeSnippets/blob/main/dict.py)
 
+
+ # Python Virtual Env
+
+  ```python
+python -m venv venv
+```
+  
+
+    pip freeze > requirements.txt
+
+Windows:    `.\.venv\Scripts\activate`
+
+Linux:       ` .\.venv\bin\activate`
+
+
+    
+
+    
+
+
+    
+
+
+    
+
+
  
